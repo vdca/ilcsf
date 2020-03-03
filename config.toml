@@ -1,4 +1,4 @@
-# baseurl = ""
+baseurl = "https://ilcsf.netlify.com"
 title = "ILCSF"
 
 theme = "hugo-coder"
