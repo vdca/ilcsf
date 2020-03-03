@@ -1,0 +1,111 @@
+# baseurl = ""
+title = "ILCSF"
+
+theme = "hugo-coder"
+
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = ""
+
+[params]
+    author = "Intonation, Language Contact and Social Factors"
+    info = "October 23-24, 2020; University of the Basque Country"
+    description = "Intonation, Language Contact and Social Factors"
+    keywords = ""
+    avatarurl = "images/logo.svg"
+    #gravatar = "john.doe@example.com"
+    footercontent = "ilcsf2020@ehu.eus"
+
+    dateformat = "January 2, 2006"
+
+    hideCredits = true
+    hideCopyright = true
+    # since = 2019
+
+    # Git Commit in Footer, uncomment the line below to enable it.
+    # commit = "https://github.com/luizdepra/hugo-coder/tree/"
+
+		# position of header (Right to Left?)
+    rtl = false
+
+    # Specify light/dark colorscheme
+    # Supported values:
+    # "auto" (use preference set by browser)
+    # "dark" (dark background, light foreground)
+    # "light" (light background, dark foreground) (default)
+    colorscheme = "auto"
+
+    # Series see also post count
+    maxSeeAlsoItems = 5
+
+    # Custom CSS
+    custom_css = []
+
+    # Custom JS
+    custom_js = []
+
+  	[hero]
+						# Button text
+						buttontext = "Submit an abstract"
+						# Where the main hero button links to
+						buttonlink = "#"
+						# Hero image (from static/images/___)
+						# image: illustrations/worker.svg
+						# Footer logos (from static/images/logos/clients/___.svg)
+						clientlogos = ["ehu", "europe", "msca-blue"]
+
+[languages]
+    [languages.en]
+        languagename = "English"
+
+        [languages.en.menu]
+
+            [[languages.en.menu.main]]
+            name = "CFP"
+            weight = 1
+            url = "cfp/"
+
+            [[languages.en.menu.main]]
+            name = "Program"
+            weight = 2
+            url = "program/"
+
+            [[languages.en.menu.main]]
+            name = "Practical info"
+            weight = 3
+            url = "practical/"
+
+            [[languages.en.menu.main]]
+            name = "Submit an abstract"
+            weight = 4
+            url = "submit/"
+
+            [[languages.en.menu.main]]
+            name = "Contact"
+            weight = 5
+            url = "contact/"
+
+# Social links
+[[params.social]]
+    name = "ehu"
+    icon = "images/logos/ehu.svg"
+    weight = 1
+    url = "https://www.ehu.eus"
+[[params.social]]
+    name = "europe"
+    icon = "images/logos/europe.svg"
+    weight = 2
+    url = "https://ec.europa.eu"
+[[params.social]]
+    name = "msca"
+    icon = "images/logos/msca-blue.svg"
+    weight = 3
+    url = ""
