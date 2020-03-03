@@ -239,11 +239,11 @@ figure {
 
 .minilogo img {
   width: auto;
-  height: 5rem;
+  height: 4rem;
   border-radius: 0%; }
   @media only screen and (max-width: 768px) {
     .minilogo img {
-      width: 5rem; } }
+      width: 4rem; } }
 
 .headlogo img {
   width: auto;
