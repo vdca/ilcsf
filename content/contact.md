@@ -5,18 +5,18 @@ slug = "contact"
 
 # General contact
 
-You can contact the conference organisers via the following email address: ilcsf2020@ehu.eus
+You can contact the conference organisers via the following email address: [ilcsf2020@ehu.eus](mailto:ilcsf2020@ehu.eus)
 
 # Organisers
 
 - Gorka Elordieta:
-gorka.elordieta@ehu.eus
+[gorka.elordieta@ehu.eus](mailto:gorka.elordieta@ehu.eus)
 (University of the Basque Country)
 - Magdalena Romera:
-magdalena.romera@unavarra.es
+[magdalena.romera@unavarra.es](mailto:magdalena.romera@unavarra.es)
 (Public University of Navarre)
 - Varun DC Arrazola:
-varun.dca@ehu.eus
+[varun.dca@ehu.eus](mailto:varun.dca@ehu.eus)
 (University of the Basque Country)
 
 # Financial support
