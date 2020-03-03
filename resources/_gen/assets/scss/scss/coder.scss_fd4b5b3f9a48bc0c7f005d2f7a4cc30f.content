@@ -243,7 +243,7 @@ figure {
   border-radius: 0%; }
   @media only screen and (max-width: 768px) {
     .minilogo img {
-      width: 4rem; } }
+      height: 4rem; } }
 
 .headlogo img {
   width: auto;
@@ -251,7 +251,7 @@ figure {
   border-radius: 0%; }
   @media only screen and (max-width: 768px) {
     .headlogo img {
-      width: 5rem; } }
+      height: 2rem; } }
 
 .list ul {
   margin: 3.2rem 0 3.2rem 0;
