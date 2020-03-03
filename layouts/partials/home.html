@@ -15,7 +15,9 @@
       {{ range sort . "weight" }}
         {{ if .icon }}
           <li>
+						<a href="{{ .url }}">
             <div class="minilogo"><img src="{{ .icon | relURL }}" alt="minilogo"></div>
+						</a>
           </li>
         {{ else }}
           <li>

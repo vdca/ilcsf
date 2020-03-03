@@ -52,16 +52,6 @@ disqusShortname = ""
     # Custom JS
     custom_js = []
 
-  	[hero]
-						# Button text
-						buttontext = "Submit an abstract"
-						# Where the main hero button links to
-						buttonlink = "#"
-						# Hero image (from static/images/___)
-						# image: illustrations/worker.svg
-						# Footer logos (from static/images/logos/clients/___.svg)
-						clientlogos = ["ehu", "europe", "msca-blue"]
-
 [languages]
     [languages.en]
         languagename = "English"
@@ -108,4 +98,4 @@ disqusShortname = ""
     name = "msca"
     icon = "images/logos/msca-blue.svg"
     weight = 3
-    url = ""
+    url = "https://ec.europa.eu/research/mariecurieactions"
