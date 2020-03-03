@@ -83,7 +83,7 @@ disqusShortname = ""
             weight = 5
             url = "contact/"
 
-# Social links
+# Social links (now: sponsors)
 [[params.social]]
     name = "ehu"
     icon = "images/logos/ehu.svg"
@@ -99,3 +99,17 @@ disqusShortname = ""
     icon = "images/logos/msca-blue.svg"
     weight = 3
     url = "https://ec.europa.eu/research/mariecurieactions"
+[[params.social]]
+    name = "min"
+    icon = "images/logos/min.png"
+    weight = 4
+    url = "http://www.ciencia.gob.es/"
+[[params.social]]
+    name = "upna"
+    icon = "images/logos/upna.svg"
+    weight = 5
+    url = "http://www.unavarra.es"
+
+
+
+
