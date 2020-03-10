@@ -11,10 +11,9 @@ For instance, Romera & Elordieta (2013) show that in the Catalan-speaking island
 
 The goal of the conference “Intonation, language contact and social factors” is to gather researchers working on phonological issues of language contact and bilingualism, with a special focus on the interaction between social factors and intonation. The languages in contact may be of any family or area in the world.
 
-# Keynote speakers
+# Confirmed keynote speakers
 
-- One
-- Two
+- [Dr Mary Baltazani](https://www.ling-phil.ox.ac.uk/people/mary-baltazani)
 
 # References
 
