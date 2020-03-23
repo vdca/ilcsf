@@ -14,5 +14,5 @@ slug = "submit"
 - Submissions are limited to two per author, and only one of the abstracts can be single-authored.
 - Abstracts must be in PDF format.
 - Deadline for submission: **May 15**, 2020.
-- Submission webpage: https://easychair.org/conferences/xxxxxxxx
+- Submission webpage: https://easychair.org/conferences/?conf=ilcsf2020
 <!-- - Registration fee: 100 € (reduced fee for students and (...)) -->
