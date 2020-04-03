@@ -22,17 +22,22 @@ You can contact the conference organisers via the following email address: [ilcs
 # Scientific committee
 
 - Antje Muntendam
+- Azucena Palacios
+- Elinor Payne
 - Elisa Fernández-Rei
 - Elisabeth Delais-Roussarie
 - José Luis Blas Arroyo
+- Lourdes Romera
 - Maria del Mar Vanrell
 - Mark Amengual
 - Mary Baltazani
 - Miguel Cuevas-Alonso
 - Nicholas Henriksen
+- Paolo Roseano 
 - Rajiv Rao
 - Sergio Robles-Puente
 - Xosé Luis Regueira
+- Yolanda Congosto
 
 # Financial support
 
