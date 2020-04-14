@@ -26,6 +26,8 @@ You can contact the conference organisers via the following email address: [ilcs
 - Elinor Payne
 - Elisa Fernández-Rei
 - Elisabeth Delais-Roussarie
+- Estibaliz Amorrortu
+- Johannes Kabatek
 - José Luis Blas Arroyo
 - Lourdes Romera
 - Maria del Mar Vanrell
@@ -34,6 +36,7 @@ You can contact the conference organisers via the following email address: [ilcs
 - Miguel Cuevas-Alonso
 - Nicholas Henriksen
 - Paolo Roseano 
+- Pedro Martín Butragueño
 - Rajiv Rao
 - Sergio Robles-Puente
 - Xosé Luis Regueira
