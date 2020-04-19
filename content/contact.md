@@ -3,6 +3,8 @@ title = ""
 slug = "contact"
 +++
 
+Find us on the [Sociolinguistic Events Calendar](https://baal.org.uk/slxevents/), and on [Linguist List](https://linguistlist.org/issues/31/31-1287.html).
+
 # General contact
 
 You can contact the conference organisers via the following email address: [letrak.fak.ilcsf@ehu.es](mailto:letrak.fak.ilcsf@ehu.es)
