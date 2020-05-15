@@ -7,7 +7,7 @@ Find us on the [Sociolinguistic Events Calendar](https://baal.org.uk/slxevents/)
 
 # General contact
 
-You can contact the conference organisers via the following email address: [letrak.fak.ilcsf@ehu.es](mailto:letrak.fak.ilcsf@ehu.es)
+You can contact the conference organisers via the following email address: [ilcsf20@ehu.eus](mailto:ilcsf20@ehu.eus)
 
 # Organisers
 

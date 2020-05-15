@@ -22,8 +22,8 @@ disqusShortname = ""
     keywords = ""
     avatarurl = "images/logo.svg"
     #gravatar = "john.doe@example.com"
-    #footercontent = "ilcsf2020@ehu.eus"
-    footercontent = "letrak.fak.ilcsf@ehu.es"
+    footercontent = "ilcsf20@ehu.eus"
+    #footercontent = "letrak.fak.ilcsf@ehu.es"
 
     dateformat = "January 2, 2006"
 
