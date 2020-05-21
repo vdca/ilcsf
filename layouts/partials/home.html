@@ -10,6 +10,8 @@
     {{ end }}
     <h1>{{ .Site.Params.author }}</h1>
     <h2>{{ .Site.Params.info }}</h2>
+    <h1alert>{{ .Site.Params.comment }}</h1alert>
+    <h2notes>{{ .Site.Params.note1 }}</h2notes>
     {{ with .Site.Params.social }}
     <ul>
       {{ range sort . "weight" }}

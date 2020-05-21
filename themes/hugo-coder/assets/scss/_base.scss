@@ -37,7 +37,9 @@ p {
 }
 
 h1,
+h1alert,
 h2,
+h2notes,
 h3,
 h4,
 h5,
@@ -56,9 +58,29 @@ h1 {
     line-height: 3.4rem;
   }
 }
+h1alert {
+  font-size: 2.8rem;
+  line-height: 4;
+  color: red;
+  border: 5px solid red;
+  padding: 1rem;
+  @media only screen and (max-width : 768px) {
+    font-size: 3.0rem;
+    line-height: 3.4rem;
+  }
+}
 h2 {
   font-size: 2.8rem;
   line-height: 3.2rem;
+  @media only screen and (max-width : 768px) {
+    font-size: 2.6rem;
+    line-height: 3.0rem;
+  }
+}
+h2notes {
+  font-size: 2.8rem;
+  line-height: 3.2rem;
+  color: red;
   @media only screen and (max-width : 768px) {
     font-size: 2.6rem;
     line-height: 3.0rem;

@@ -134,10 +134,23 @@
       margin-top: 2.0rem;
       margin-bottom: 0.5rem;
     }
+    h1alert {
+      margin-top: 2.0rem;
+      margin-bottom: 0.5rem;
+    }
     h2 {
       margin-top: 1.0rem;
       margin-bottom: 0.5rem;
       font-size: 2.4rem;
+      @media only screen and (max-width : 768px) {
+        font-size: 2.0rem;
+      }
+    }
+    h2notes {
+      margin-top: 1.0rem;
+      margin-bottom: 0.5rem;
+      font-size: 2.4rem;
+			display: block;
       @media only screen and (max-width : 768px) {
         font-size: 2.0rem;
       }
