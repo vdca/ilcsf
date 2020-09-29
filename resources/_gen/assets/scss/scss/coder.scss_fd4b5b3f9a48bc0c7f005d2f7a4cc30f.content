@@ -147,7 +147,7 @@ blockquote {
   font-style: italic; }
 
 th, td {
-  padding: 1.6rem; }
+  padding: 0.5rem; }
 
 table {
   border-collapse: collapse; }
@@ -155,19 +155,16 @@ table {
 table td, table th {
   border: 2px solid #000; }
 
-table tr:first-child th {
-  border-top: 0; }
-
-table tr:last-child td {
-  border-bottom: 0; }
-
-table tr td:first-child,
-table tr th:first-child {
+table tr td,
+table tr th {
   border-left: 0; }
 
-table tr td:last-child,
-table tr th:last-child {
+table tr td,
+table tr th {
   border-right: 0; }
+
+table tr:hover {
+  background-color: #eae5e5; }
 
 img {
   max-width: 100%; }
