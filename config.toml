@@ -72,9 +72,9 @@ disqusShortname = ""
             url = "program/"
 
             [[languages.en.menu.main]]
-            name = "Practical info"
+            name = "Registration"
             weight = 3
-            url = "practical/"
+            url = "registration/"
 
             [[languages.en.menu.main]]
             name = "Submit an abstract"
