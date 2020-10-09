@@ -52,7 +52,7 @@ slug = "Program"
 |  |  |  |
 |  |  |  |
 |  |  |  |
-| [Peak alignment and downstep revisited: Language contact and gender in Peruvian Spanish Intonation](/abstracts/ILCSF20_abstract_13.pdf) | Erin O'Rourke | Univeristy of Alabama |
+| [Peak alignment and downstep revisited: Language contact and gender in Peruvian Spanish Intonation](/abstracts/ILCSF20_abstract_13.pdf) | Erin O'Rourke | University of Alabama |
 |  |  |  |
 |  |  |  |
 |  |  |  |
