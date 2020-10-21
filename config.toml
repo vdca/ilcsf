@@ -112,6 +112,11 @@ disqusShortname = ""
     icon = "images/logos/upna.svg"
     weight = 5
     url = "http://www.unavarra.es"
+[[params.social]]
+    name = "upna"
+    icon = "images/logos/ej_hezkuntza.png"
+    weight = 6
+    url = "https://www.euskadi.eus/eusko-jaurlaritza/hezkuntza-saila/"
 
 
 
