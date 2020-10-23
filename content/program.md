@@ -9,7 +9,7 @@ slug = "Program"
 |-|-|-|
 | 1:45 – 2:00 pm | ILCSF20 Organisers |  opening words |
 | 2:00 – 3:00 pm | Mary **Baltazani** |  [Keynote: Greek intonation in contact](/abstracts/ILCSF20_abstract_0.pdf) |
-| 3:00 – 3:30 pm | Fatima **Hamlaoui**, Marzena **Zygis** and Jonas **Engelmann** |  [Influence of lexical tones on calling melodies: a comparison between Metropolitan and Bàsàa-Cameroonian French](/abstracts/ILCSF20_abstract_5.pdf)  |
+| 3:00 – 3:30 pm | Fatima **Hamlaoui**, Marzena **Zygis**, Segio **Quiroz** and Jonas **Engelmann** |  [Influence of lexical tones on calling melodies: a comparison between Metropolitan and Bàsàa-Cameroonian French](/abstracts/ILCSF20_abstract_5.pdf)  |
 | 3:30 – 4:00 pm  |  |  [break] |
 | 4:00 – 4:30 pm | Andrea **Pešková** |  [Do Paraguayans ask using Guarani intonation? Yes/no questions in Spanish-Guarani bilinguals](/abstracts/ILCSF20_abstract_7.pdf)  |
 | 4:30 – 5:00 pm | Diana **Muñoz-Builes**, Magaly **Ruiz-Mella**, Rosa **Catalán-Liempi** and Domingo **Román** |  [Lenguas en contacto en Chile: la entonación en el mapudungun y el español de Chiloé](/abstracts/ILCSF20_abstract_10.pdf)  |
@@ -37,6 +37,7 @@ slug = "Program"
 |  |  |  |
 | [Influence of lexical tones on calling melodies: a comparison between Metropolitan and Bàsàa-Cameroonian French](/abstracts/ILCSF20_abstract_5.pdf) | Fatima Hamlaoui | University of Toronto |
 |  | Marzena Zygis | Leibniz-ZAS and Humboldt University, Berlin |
+|  | Segio Quiroz | Humboldt University, Berlin |
 |  | Jonas Engelmann | Humboldt University, Berlin |
 |  |  |  |
 |  |  |  |
