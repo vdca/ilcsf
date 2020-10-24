@@ -21,7 +21,7 @@ slug = "Program"
 |-|-|-|
 | 2:00 – 2:30 pm | Catalina **Torres** |  [Differences in pitch range despite a shared prosodic typology](/abstracts/ILCSF20_abstract_11.pdf)  |
 | 2:30 – 3:00 pm | Paolo **Roseano**, Andrea **Pešková**, Lourdes **Romera Barrios** and Christoph **Gabriel** |  [Speech rhythm in Friulian-Italian asymmetric early bilinguals](/abstracts/ILCSF20_abstract_6.pdf)  |
-| 3:00 – 3:30 pm | Rosalía **Rodríguez-Vázquez** and Paolo **Roseano** |  [Rhythmic Transfer and acquisition of L2 rhythm in galician learners of english](/abstracts/ILCSF20_abstract_14.pdf)  |
+| 3:00 – 3:30 pm | Rosalía **Rodríguez-Vázquez** and Paolo **Roseano** |  [Rhythmic Transfer and acquisition of L2 rhythm in Galician learners of English](/abstracts/ILCSF20_abstract_14.pdf)  |
 | 3:30 – 4:00 pm  |  |  [break] |
 | 4:00 – 4:30 pm | Eva Patricia **Velásquez-Upegui** |  [Análisis de enunciados interrogativos en el español en contacto con el otomí de San Ildefonso Tultepec](/abstracts/ILCSF20_abstract_9.pdf)  |
 | 4:30 – 5:00 pm | Erika **Hernández**, Carolina **González** and Antje **Muntendam** |  [Language contact and the intonation of yes/no-questions in Galician and Spanish: The effects of age, gender and language dominance](/abstracts/ILCSF20_abstract_15.pdf)  |
