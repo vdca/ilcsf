@@ -68,7 +68,7 @@ slug = "Program"
 |  |  |  |
 |  |  |  |
 |  |  |  |
-| [Rhythmic Transfer and acquisition of L2 rhythm in galician learners of english](/abstracts/ILCSF20_abstract_14.pdf) | Rosalía Rodríguez-Vázquez | Universidade de Vigo |
+| [Rhythmic Transfer and acquisition of L2 rhythm in Galician learners of English](/abstracts/ILCSF20_abstract_14.pdf) | Rosalía Rodríguez-Vázquez | Universidade de Vigo |
 |  | Paolo Roseano | Universitat de Barcelona / University of South Africa |
 |  |  |  |
 |  |  |  |
