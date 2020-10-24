@@ -25,7 +25,7 @@ slug = "Program"
 | 3:30 – 4:00 pm  |  |  [break] |
 | 4:00 – 4:30 pm | Eva Patricia **Velásquez-Upegui** |  [Análisis de enunciados interrogativos en el español en contacto con el otomí de San Ildefonso Tultepec](/abstracts/ILCSF20_abstract_9.pdf)  [[**video**](https://eu-lti.bbcollab.com/recording/18f0d57c5df947199da77d7626440b16)] (due to technical issues, the beginning of the recording is missing) |
 | 4:30 – 5:00 pm | Erika **Hernández**, Carolina **González** and Antje **Muntendam** |  [Language contact and the intonation of yes/no-questions in Galician and Spanish: The effects of age, gender and language dominance](/abstracts/ILCSF20_abstract_15.pdf)  [[**video**](https://eu-lti.bbcollab.com/recording/a805e9ab8052497597fa52d0189c0a72)] |
-| 5:00 – 5:30 pm | Rosalía **Rodríguez-Vázquez** |  [Language contact and intonation change: The case of Galician and Galician Spanish](/abstracts/ILCSF20_abstract_1.pdf)  [[**video**](xx)] |
+| 5:00 – 5:30 pm | Rosalía **Rodríguez-Vázquez** |  [Language contact and intonation change: The case of Galician and Galician Spanish](/abstracts/ILCSF20_abstract_1.pdf)  [[**video**](https://eu-lti.bbcollab.com/recording/793d43ae224f4e13af234c28ba551ec6)] |
 
 ## Full list of presentations with authors' affiliations
 
